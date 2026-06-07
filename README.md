@@ -1,2 +1,11 @@
-# lab-vad-breathing-light
-语音交互VAD中断冲突呼吸灯感应机制专项项目 已完成技术报告，成果同步存证于OSF、IPFS、Zenodo，附带正式DOI。 后续将迭代为产品落地建议，探索技术方案实际应用。  Breathing Light Induction Mechanism for VAD Interruption Conflict in Voice Interaction. Technical reports archived on OSF, IPFS and Zenodo with official DOI.
+# lab-vad-breathing-light-mechanism
+Breathing Light Induction Mechanism for Solving VAD Interruption Conflict in Voice Interaction
+
+本项目完全开放，欢迎自由查阅、研究、引用、二次开发与落地应用。
+
+外部存证链接：
+- Zenodo (DOI: 10.5281/zenodo.20577952)
+- OSF：https://osf.io/j4f5a/overview
+- IPFS：https://ipfs.io/ipfs/bafkreie7nm7vqpkbofbkpspeh4j22ywwsnfagzz73vzg4uhgallugc5gdq
+
+目录内已上传技术报告 PDF 与 LaTeX 源码。
