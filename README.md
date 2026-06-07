@@ -12,3 +12,17 @@ This project is fully open for viewing, research, citation, secondary developmen
 ## Files
 The folder contains the technical report in PDF format and the LaTeX file used for document typesetting.
 仓库内包含技术报告PDF文件，以及用于文档排版的LaTeX源文件。
+
+## Project Schematic Diagrams
+
+![Schematic](null.png)
+
+![Schematic](null.png (4))
+
+![Schematic](null.png (5))
+
+![Schematic](null.png (6))
+
+![Schematic](null.png (7))
+
+![Schematic](null.png (8))
