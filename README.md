@@ -66,6 +66,12 @@ Low deployment cost, wide compatibility, strong scalability; active rhythm guida
 3. Extend to multi-person group dialogue scenarios
    拓展适配多人对话场景
 
+   ---
+
 # Breathing Light Lab 呼吸灯交互实验仓库
 https://gitee.com/jjhhhhhhhhhhhh/breathing-light-lab
 该仓库为「呼吸灯感应机制解决语音交互VAD中断冲突」开源项目的开放推演实验场，所有技术推演、方案设计、原型研究均在此仓库开展。
+
+
+20260626 视频迭代到 v20
+20260628 视频上传到 Youtubehttps://youtube.com/shorts/6VdfFI0a8xo?si=zaGDVs0QtaHZs_J3
