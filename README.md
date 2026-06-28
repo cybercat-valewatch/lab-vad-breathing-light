@@ -74,4 +74,4 @@ https://gitee.com/jjhhhhhhhhhhhh/breathing-light-lab
 
 
 20260626 视频迭代到 v20
-20260628 视频上传到 Youtubehttps://youtube.com/shorts/6VdfFI0a8xo?si=zaGDVs0QtaHZs_J3
+20260628 上传视频 v20.mp4 到本仓库，上传到Youtube https://youtube.com/shorts/6VdfFI0a8xo?si=zaGDVs0QtaHZs_J3
